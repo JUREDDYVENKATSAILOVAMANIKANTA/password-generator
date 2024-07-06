@@ -1,0 +1,1 @@
+This project aims to create a secure and user-friendly password generator web application using Python. By providing a reliable tool for generating strong passwords, the application will help users enhance their online security and protect their personal information.
